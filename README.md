@@ -1,5 +1,6 @@
 # ci-lab
 laboratorio de integración continua
+Cambio paso 2
 
 
 ## Parte 1: GitHub Actions Build
